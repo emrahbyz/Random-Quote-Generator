@@ -1,8 +1,4 @@
-# React + Vite
+<h3>Basit bir şekilde jsondan verileri çekerek yaptığım küçük bir app</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![img1](https://github.com/emrahbyz/Random-Quote-Generator/assets/146847947/b1c60205-17d5-4984-bf40-53b82d663467)
+![img2](https://github.com/emrahbyz/Random-Quote-Generator/assets/146847947/20b29f06-7746-4468-a8ff-6e4337ddd9dd)
